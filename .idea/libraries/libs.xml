@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/core-sdk-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/android_sdk_1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/google-play-services.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
